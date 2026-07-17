@@ -4,6 +4,7 @@
   "private": true,
   "description": "Responsive showcase for the Friendlyhours mobile social screens.",
   "scripts": {
+    "check": "node scripts/verify-production.mjs",
     "start": "node scripts/dev-server.mjs",
     "dev": "node scripts/dev-server.mjs"
   },
